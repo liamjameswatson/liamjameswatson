@@ -5,4 +5,4 @@ A little about me:
 - 🌱 I’m currently learning advanced design systems and refining my UI skills  
 - 👯 I’m looking to collaborate on creative dev projects, AI tools, local businesses or experimental web apps  
 - 💬 Ask me about full stack development, React, Next.js, or how to deploy anything  
-- 📫 How to reach me: [liamjwatson@aol.com]. 
+- 📫 How to reach me: thedevondeveloper@gmail.com
