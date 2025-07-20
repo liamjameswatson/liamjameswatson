@@ -1,3 +1,5 @@
+A little about me: 
+
 - 🤖 I train AI models how to write and improve code  
 - 🔭 I’m currently working on an ecommerce website for a local fine art business  
 - 🌱 I’m currently learning advanced design systems and refining my UI skills  
